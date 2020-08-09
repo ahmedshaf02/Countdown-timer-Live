@@ -1,12 +1,12 @@
 
 
-# React-Food-Recipe-App
+# React-Countdown
 
-## To find your delicious recipe
+##  Countdown app to set your counter for specific date
 
 
 
-### please do visit here [React-Food-Recipe](https://react-food-recipe-git-master.ahmedshaf02.vercel.app/)
+### please do visit here [React-Food-Recipe](https://react-countdown.ahmedshaf02.now.sh/)
 
 
 
