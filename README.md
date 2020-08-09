@@ -12,7 +12,7 @@
 
 
  # Demo
-![zoom-0 (4)](https://user-images.githubusercontent.com/59289789/89722715-bce04d80-d9a1-11ea-811f-d126f0f1033c.gif)
+![timer](https://user-images.githubusercontent.com/59289789/89722998-b6ec6b80-d9a5-11ea-9d36-bbfde1c4a6ab.gif)
 
 
 
@@ -23,8 +23,9 @@
 
 
 
-## How to use
-![home](https://firebasestorage.googleapis.com/v0/b/fir-login-react-66d68.appspot.com/o/images%2Ffood%20recipe%202.PNG?alt=media&token=9f26b2ed-7a5f-4135-ac5c-d61d575ba4c1)
+## How to use- type valid date format
+![timer](https://firebasestorage.googleapis.com/v0/b/fir-login-react-66d68.appspot.com/o/images%2Fcount.PNG?alt=media&token=2709732c-07c7-4415-ba65-0a04f073907d)
+
 
 
 ## Change Date according to you
