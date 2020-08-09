@@ -68,7 +68,7 @@ const Styles = {
 };
 
 const Countdown = () => {
-  const [date, setDate] = useState("June 20, 2020");
+  const [date, setDate] = useState("September 20, 2020");
   const [time, setTime] = useState("");
 
   return (
