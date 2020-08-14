@@ -5,7 +5,7 @@ import Countdown from "./Countdown"
 export default function App() {
   return (
     <div className="App">
-      <h1>React Countdown</h1>
+      <h1>Countdown timer Live</h1>
       <Countdown/>
     </div>
   );
