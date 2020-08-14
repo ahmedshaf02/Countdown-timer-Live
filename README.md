@@ -1,12 +1,12 @@
 
 
-# React-Countdown
+# Countdown timer Live
 
 ##  Countdown app to set your counter for specific date
 
 
 
-### please do visit here [React-Food-Recipe](https://react-countdown.ahmedshaf02.now.sh/)
+### please do visit here [Countdown timer Live](https://react-countdown.ahmedshaf02.now.sh/)
 
 
 
